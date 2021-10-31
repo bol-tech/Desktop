@@ -6,7 +6,12 @@ firstname = input("enter your first name.......")
 lastname = input("enter your last name.......")
 print("full name is",firstname,lastname)
 country = input("please enter your country.....")
-maritalstatus= input ("married or single.. ?")
-print("confirm your status please!")
+qualification = input("Degree, Diploma,master or PHD.........")
+profession = input("specify your IT expertise_______")
+DOB  = input("DDD/MM/YYY  //....//....///")
+print("PA-background",qualification,profession,DOB)
+
+     
+    
  
  
