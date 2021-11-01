@@ -9,7 +9,8 @@ country = input("please enter your country.....")
 qualification = input("Degree, Diploma,master or PHD.........")
 profession = input("specify your IT expertise_______")
 DOB  = input("DDD/MM/YYY  //....//....///")
-print("PA-background",qualification,profession,DOB)
+print("PA-background:----",qualification,profession,DOB)
+
 
      
     
