@@ -12,6 +12,7 @@ DOB  = input("DDD/MM/YYY  //....//....///")
 print("PA-background:----",qualification,profession,DOB)
 
 
+
      
     
  
