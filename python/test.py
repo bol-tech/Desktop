@@ -13,6 +13,7 @@ print("PA-background:----",qualification,profession,DOB)
 
 
 
+
      
     
  
