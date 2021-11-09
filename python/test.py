@@ -10,10 +10,14 @@ qualification = input("Degree, Diploma,master or PHD.........")
 profession = input("specify your IT expertise_______")
 DOB  = input("DDD/MM/YYY  //....//....///")
 print("PA-background:----",qualification,profession,DOB)
-marital_status = "married"
-if marital_status == 'married':
+marital_status = "1" 
+if marital_status == '1':
     print("please confirm your status")
-    name = input("his/her name is.... ..........")
+    name = input("married/single...??. ..........")
+
+else: 
+    marital_status ='single'
+    print("single:-") 
     
     
     
