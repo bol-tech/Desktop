@@ -17,7 +17,7 @@ if marital_status == '1':
 
 else: 
     marital_status ='single'
-    print("single:-") 
+    print("single:-")  
 
     
     
